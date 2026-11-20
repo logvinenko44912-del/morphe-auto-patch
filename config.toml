@@ -11,7 +11,7 @@ rv-brand = "Morphe"
 
 [YouTube-Morphe]
 app-name = "YouTube"
-build-mode = "module"
+build-mode = "apk"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
